@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(122): warning C4129: 'S': unrecognized character escape sequence
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(13): warning C4101: 'ans2': unreferenced local variable
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(158): warning C4101: 'result': unreferenced local variable
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(206): warning C4101: 'search': unreferenced local variable
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(206): warning C4101: 'result': unreferenced local variable
+c:\users\camilo\documents\visual studio 2015\projects\winprj\winprj\source.cpp(217): warning C4101: 'result': unreferenced local variable
+  winprj.vcxproj -> c:\users\camilo\documents\visual studio 2015\Projects\winprj\Debug\winprj.exe
+  winprj.vcxproj -> c:\users\camilo\documents\visual studio 2015\Projects\winprj\Debug\winprj.pdb (Partial PDB)
